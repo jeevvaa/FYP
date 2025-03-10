@@ -16,7 +16,6 @@ Setup and Installation
 •	Attach the dataset file
 •	Run each code individually
 
-
 TO view phpMyadmin
 •	Download XAMPP
 •	Start Apache
